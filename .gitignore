@@ -1,0 +1,7 @@
+*TESTDATA/
+*__pycache__
+*.ipynb
+*.DS_Store
+*_GP
+*.ipynb_checkpoints
+*ensemble_test/

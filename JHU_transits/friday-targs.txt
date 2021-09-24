@@ -1,0 +1,10 @@
+TIC ID 322046084 (2MASS J18331824+2523428), TOI 4449
+Start 21:08 - End 22:54
+PC (3), Tess mag 10.3, Depth 8.7 ppt
+Solar host, 2 TRES spectra, ESM 96.1, TSM 167.5, “v-shaped”
+
+TIC ID 284206913 (2MASS J00371289+6112186), TOI 3972
+Start 01:09 - End 04:18
+PC (3), Tess mag 10.7, Depth 15.60 ppt
+CTOI from Olmschenk et al. 2021, some machine learning faint star qlp search I think
+Speckle images are clean, 3 TRES spectra, 1 follow-up from UW-Milwaukee 0.36m
