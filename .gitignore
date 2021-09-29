@@ -5,3 +5,6 @@
 *_GP
 *.ipynb_checkpoints
 *ensemble_test/
+*_GP_*
+*.png
+*params.txt
